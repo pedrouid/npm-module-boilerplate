@@ -8,7 +8,7 @@ Readymade boilerplate setup with all the best practices to kick start your npm/n
 
 Happy hacking =)
 
-# Features
+## Features
 
 - **ES6/ESNext** - Write _ES6_ code and _Babel_ will transpile it to ES5 for backwards compatibility
 - **Test** - _Mocha_ with _Istanbul_ coverage
@@ -16,7 +16,7 @@ Happy hacking =)
 - **CI** - _TravisCI_ configuration setup
 - **Minify** - Built code will be minified for performance
 
-# Commands
+## Commands
 
 - `npm run clean` - Remove `lib/` directory
 - `npm test` - Run tests with linting and coverage results.
@@ -29,10 +29,10 @@ Happy hacking =)
 - `npm run build` - Babel will transpile ES6 => ES5 and minify the code.
 - `npm run prepublish` - Hook for npm. Do all the checks before publishing your module.
 
-# Installation
+## Installation
 
 Just clone this repo and remove `.git` folder.
 
-# License
+## License
 
 MIT © Pedro Gomes
