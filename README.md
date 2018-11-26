@@ -10,9 +10,9 @@ Happy hacking =)
 
 ## Features
 
-- **ES6/ESNext** - Write _ES6_ code and _Babel_ will transpile it to ES5 for backwards compatibility
-- **Test** - _Mocha_ with _Istanbul_ coverage
-- **Lint** - Preconfigured _ESlint_ with _Airbnb_ config
+- **ES6/ESNext** - Write _ES6_ code and _Babel 7_ will transpile it to ES5 for backwards compatibility
+- **Test** - _Mocha & Chai_ with _Istanbul_ coverage
+- **Lint** - Preconfigured _ESlint recommended_ config
 - **CI** - _TravisCI_ configuration setup
 - **Minify** - Built code will be minified for performance
 
@@ -36,3 +36,7 @@ Just clone this repo and remove `.git` folder.
 ## License
 
 MIT © Pedro Gomes
+
+## Disclaimer
+
+Adptation from [original repository](https://github.com/flexdinesh/npm-module-boilerplate) from [Dinesh Pandiyan](https://github.com/flexdinesh)
