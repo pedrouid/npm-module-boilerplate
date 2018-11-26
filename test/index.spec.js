@@ -6,9 +6,9 @@ import defaultAwesomeFunction, { awesomeFunction } from '../src'
 describe('Awesome test.', () => {
   it('should test default awesome function', () => {
     const expectedVal =
-      'I am the Default Awesome Function, fellow comrade! - Dinesh'
+      'I am the Default Awesome Function, fellow comrade! - John Doe'
     assert(
-      defaultAwesomeFunction('Dinesh') === expectedVal,
+      defaultAwesomeFunction('John Doe') === expectedVal,
       'Default not awesome :('
     )
   })
