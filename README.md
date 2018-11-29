@@ -36,4 +36,4 @@ Just clone this repo and remove `.git` folder.
 ## License
 
 MIT © Pedro Gomes
-[Adaptation from [original repository](https://github.com/flexdinesh/npm-module-boilerplate) from [Dinesh Pandiyan](https://github.com/flexdinesh)]
+(Adaptation from [original repository](https://github.com/flexdinesh/npm-module-boilerplate) from [Dinesh Pandiyan](https://github.com/flexdinesh))
